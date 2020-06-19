@@ -9,3 +9,6 @@ https://gist.github.com/2mattialcomputer/13ddd0ac8665d7134cdcf7c969b4a1c7
 
 ### Link Setup C
 https://gist.github.com/2mattialcomputer/97566843cc78d75527d5d24250b1343b
+
+### Link Diagramma
+https://raw.githubusercontent.com/2mattialcomputer/tutorial/master/C/lezione1/Untitled%20Diagram.drawio
