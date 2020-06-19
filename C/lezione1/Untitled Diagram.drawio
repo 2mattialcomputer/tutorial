@@ -1,1 +1,147 @@
-<mxfile host="app.diagrams.net" modified="2020-06-19T12:26:08.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="R1xxPn-ddPrgdAdN6OGH" version="13.2.6" type="github"><diagram id="_VMhtuZ2TOHBDCkUQ_bc" name="Page-1">5Vtbc6M2FP4tffCkfXAHEOD4MfEmTWfSbGadnUyfOjLIoAYQFbId76/fIy7GWDimSWwImcnFOuiCvvOdiy4eoEn4/AfHsf8Xc0kwMDT3eYC+DAwD6aYB/6RknUl0S7Myicepm8tKwZT+ILlQy6UL6pKkUlEwFggaV4UOiyLiiIoMc85W1WpzFlRHjbFHFMHUwYEqfaSu8DPpuTEq5TeEen4xsm6PsychLirnM0l87LLVlghdDdCEMyayT+HzhAQSvQKXrN31nqebF+MkEk0a/D18QCPHcf7RjPnF/ePkScyuh2bWyxIHi3zC+cuKdYEAcQGQvMi48JnHIhxcldJLzhaRS+QwGpTKOreMxSDUQfgvEWKdaxcvBAORL8Igf5qNKQfaO7dclLAFd8gLEyo4grlHxAv10EYDwF3CQiL4GtpxEmBBl9X3wDmHvE29Emb4kCP9P1C3PyvqVpuo6wrqtzTyFtjzqGwaCcJjTgS8iaINQZ5FFbxEcPZEJixgHCQRi6RK5jQIdkQ4oF4ERYfI/kGwJFxQ8C8X+YOQum6qz5VPBZnGOAV6Be5U0XH+/tABeX5ZZSrEeYMh0nJ3lDvkcV5clc5NLzyWv+XYbO1IWjnvmy1YDW1h1KYtWArq1ziKGIgWifwLcTw425gE6bFBGMisGIShtW0RI0U33whMWvIzIZAPzWggC4sIS7pQT/6LAUpoAomRLMnHALdMn0hEuBTNs0YzGmFO2WfS53nb+kSKPu/X4KCiHisBjbpmVHrvci6jYZzR2026ehffG+PeaoA3FNi3k90JC2Ma9DvTtc2qD2o90zVUnXxwU9BHDW1hn65O5IPUjErJdgdyCykzCsb7nO9anQvNhrowz/2TbJlpxqUOSRkJRIsEyXNchxOcZsJn25nx51Fd66mtrq4jZUfwe5n+9FYVI71zVlS3lWsHKd4wGduTnx4ID2EFKK0kewRDlU8LYVwIvkdnOI4DwPkHlXoAi/NJttqEl07N0JXpRIgjF/O0SGjmSUEiP2H53glNBAmlpTJoKR0+2xo/Lod/N7okoH9Id0BglaWHNEAODW0PSxhQYh6kW/Q+sIlEx2AOOrz9Nq6hzYZL7786Vb3vB89KjHHDrARp9ao6UYY+VoC/nYIt4FCSMZol8fvaRMdc6I4h1FmCWWMIx7MDTVUH+C28cWr5DloEfUnhivEn6WKkC+TEgaxx3V9l6dZhbenopOrq3WIKoaZuy2zTbSF1O3Pypb/M33FTyGrbTalp3gSHM1oc2nx611SnoRO7protz91M/A4vqVek1bW5+OdLhjflQ9mweTTVqTmZGlUi90JeLCoBfkU8UCHZmrNVM+VC1tjJ5yPcMwoDl4jbVchNbQfKLEzlrUo0D3Z0vtNPFsWUflKtbGb9ekWZarbWE0XtwfOj6EXNDlS9fKi0zGx6tym76thWWmaqy/jpw8W3BwX9KrZ1rl/B8U0+3jKrhNRb3ykze3cUXNyyPczRVs+Ci9fcAv5iuaSQjqQnkRrO0tcYwMSd4237O7xm747S30zH+hho79xxNPUTB0H1VGQaQ84tOd5hhqPWGW7VBDH1isIH4/j4RSUMtd8RKvZU3sh7c2c9ZaFmvC87Kiqy+TwhR7ENS7WNu6+9UHGT6+8HuWCaxa2VN3JhZL+OC7BiwuutarGskDQfx7S0HdpkPda3Hu7M63i8M9WV/U16L3YRyU0YLNQ7sdxn4WyRnMYXoz0ha9sX12007q7v3s8Xqyu5qzv4q/06/T6ZXE2nX39rPYKh0R6StxfBVJrlqP151x3c7HHXcLN7dwptN12T2a0e5xSv2bl9A11DXds4sHu3uWWbTUlqt0pS9dBrKnAYywAufxPHJzyUR2ADw/5vIb9Re3kD/UrJI+OB+0sp7x6x299ZsNUdsTRqdQ2pY65QoVh+FzvLOsuvtKOrnw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-19T12:34:16.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="G_yJiSFZguXLW4O0xGjd" version="13.2.6" type="github">
+  <diagram id="_VMhtuZ2TOHBDCkUQ_bc" name="Page-1">
+    <mxGraphModel dx="2150" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y-T37ccc_02fAPWCktbF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-1" target="Y-T37ccc_02fAPWCktbF-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-1" target="Y-T37ccc_02fAPWCktbF-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-1" value="Linguaggi interpretati" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-300" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-5" target="Y-T37ccc_02fAPWCktbF-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-5" value="Fanno uso dell&#39;interprete" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-234" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-7" value="Rende eseguibile una riga per volta e non genera file binario" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-234" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-3" value="Python" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-374" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-2" target="Y-T37ccc_02fAPWCktbF-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-2" target="Y-T37ccc_02fAPWCktbF-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-2" value="Linguaggi Compilati" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-644" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-17" target="Y-T37ccc_02fAPWCktbF-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-17" value="Fanno uso del compilatore" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-574" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-21" value="Compila il codice sorgente e crea un&#39;eseguibile" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-574" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-15" value="C/C++" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-714" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-24" value="&lt;h1&gt;Terminale&lt;/h1&gt;&lt;p&gt;Un&#39;applicazione che permette di mandare dei comandi al sistema operativo&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="90" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-29" target="Y-T37ccc_02fAPWCktbF-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-29" value="LS&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-30" value="Lista dei file nella working directory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="290" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-33" target="Y-T37ccc_02fAPWCktbF-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-33" value="CD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="350" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-34" value="Cambio della working directory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="350" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-38" value="&lt;h1&gt;Navigazione&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="230" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-39" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="400" as="sourcePoint" />
+            <mxPoint x="360" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-40" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="80" as="sourcePoint" />
+            <mxPoint x="360" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-41" target="Y-T37ccc_02fAPWCktbF-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-41" value="START" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-42" target="Y-T37ccc_02fAPWCktbF-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-42" value="Avvicinati alla porta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-45" value="Spingi la porta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-51" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-49" edge="1">
+          <mxGeometry x="-0.3333" relative="1" as="geometry">
+            <mxPoint x="430" y="530" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-55" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-49" target="Y-T37ccc_02fAPWCktbF-59" edge="1">
+          <mxGeometry x="-0.4444" relative="1" as="geometry">
+            <mxPoint x="760" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="450" />
+            </Array>
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-49" value="Ha funzionato" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="410" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-53" value="END (SUCCESSO)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-59" value="END (INSUCCESSO)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-62" target="Y-T37ccc_02fAPWCktbF-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-62" value="START" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-64" target="Y-T37ccc_02fAPWCktbF-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-64" value="Stampa a schermo &quot;Hello World!&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-T37ccc_02fAPWCktbF-66" value="END (Successo)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
