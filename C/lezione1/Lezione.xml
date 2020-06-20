@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-06-20T09:14:47.638Z" agent="5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="-KZyz0IL1W7D9ixnsbNW" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-20T09:31:08.609Z" agent="5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="OLkcZLU5YBhmruRrxlJD" version="13.3.0" type="github">
   <diagram id="_VMhtuZ2TOHBDCkUQ_bc" name="Page-1">
-    <mxGraphModel dx="3185" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1770" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" Adrex="0" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
+        <mxCell id="ksECmbHUQdXgYeWgT2GS-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#EA6B66;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="790" width="470" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="Y-T37ccc_02fAPWCktbF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-1" target="Y-T37ccc_02fAPWCktbF-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -93,7 +96,7 @@
         <mxCell id="Y-T37ccc_02fAPWCktbF-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-42" target="Y-T37ccc_02fAPWCktbF-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y-T37ccc_02fAPWCktbF-42" value="Avvicinati alla porta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Y-T37ccc_02fAPWCktbF-42" value="Avvicinati alla porta" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-340" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y-T37ccc_02fAPWCktbF-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-45" edge="1">
@@ -101,7 +104,7 @@
             <mxPoint x="-280" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y-T37ccc_02fAPWCktbF-45" value="Spingi la porta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Y-T37ccc_02fAPWCktbF-45" value="Spingi la porta" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-340" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y-T37ccc_02fAPWCktbF-51" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-49" edge="1">
@@ -119,7 +122,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y-T37ccc_02fAPWCktbF-49" value="Si è aperta???" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Y-T37ccc_02fAPWCktbF-49" value="Si è aperta???" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-350" y="690" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y-T37ccc_02fAPWCktbF-53" value="END (SUCCESSO)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -137,7 +140,7 @@
         <mxCell id="Y-T37ccc_02fAPWCktbF-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-64" target="Y-T37ccc_02fAPWCktbF-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y-T37ccc_02fAPWCktbF-64" value="Stampa a schermo &quot;Hello World!&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Y-T37ccc_02fAPWCktbF-64" value="Stampa a schermo &quot;Hello World!&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-714" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y-T37ccc_02fAPWCktbF-66" value="END (Successo)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
