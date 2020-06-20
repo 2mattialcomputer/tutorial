@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-20T09:31:08.609Z" agent="5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="OLkcZLU5YBhmruRrxlJD" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-20T09:33:02.258Z" agent="5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="L-y_GWbZRNmWZaJZNhL7" version="13.3.0" type="github">
   <diagram id="_VMhtuZ2TOHBDCkUQ_bc" name="Page-1">
     <mxGraphModel dx="1770" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
         <mxCell id="Y-T37ccc_02fAPWCktbF-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-1" target="Y-T37ccc_02fAPWCktbF-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y-T37ccc_02fAPWCktbF-1" value="Linguaggi interpretati" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Y-T37ccc_02fAPWCktbF-1" value="Linguaggi interpretati" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-300" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y-T37ccc_02fAPWCktbF-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-5" target="Y-T37ccc_02fAPWCktbF-7" edge="1">
@@ -36,7 +36,7 @@
         <mxCell id="Y-T37ccc_02fAPWCktbF-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-2" target="Y-T37ccc_02fAPWCktbF-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y-T37ccc_02fAPWCktbF-2" value="Linguaggi Compilati" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Y-T37ccc_02fAPWCktbF-2" value="Linguaggi Compilati" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-644" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y-T37ccc_02fAPWCktbF-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y-T37ccc_02fAPWCktbF-17" target="Y-T37ccc_02fAPWCktbF-21" edge="1">
